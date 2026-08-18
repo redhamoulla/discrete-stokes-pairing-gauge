@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the accompanying manuscript."
+title: "Gauge Freedom in Discrete Stokes Structures: Affine Pairings, Intrinsic Nodes, and the Rigidity of Gauss-Legendre Locality"
+type: article
+authors:
+  - family-names: Moulla
+    given-names: Redha
+    email: redha.moulla@axia-conseil.com
+    affiliation: AXIA, France
+date-released: 2026-08-18
+version: 1.0.0
+repository-code: "https://github.com/redhamoulla/discrete-stokes-pairing-gauge"

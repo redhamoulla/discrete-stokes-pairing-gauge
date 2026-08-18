@@ -1,0 +1,90 @@
+[
+  {
+    "name": "transformed_polynomials",
+    "effort_dim": 5,
+    "derived_flow_dim": 4,
+    "mass_rank": 4,
+    "kernel_dim_MT": 1,
+    "trace_rank": 2,
+    "boundary_rank": 2,
+    "minimal_trace_completion": [
+      0
+    ],
+    "stokes_relative_defect": 1.4718468678893762e-15,
+    "rank_factorization_relative_defect": 1.4409035199713524e-16,
+    "mass_condition_nonzero": 12549.479355417372
+  },
+  {
+    "name": "periodic_trigonometric",
+    "effort_dim": 5,
+    "derived_flow_dim": 4,
+    "mass_rank": 4,
+    "kernel_dim_MT": 1,
+    "trace_rank": 1,
+    "boundary_rank": 0,
+    "minimal_trace_completion": [
+      0
+    ],
+    "stokes_relative_defect": 4.610788623112739e-15,
+    "rank_factorization_relative_defect": 3.3189086676117587e-15,
+    "mass_condition_nonzero": 2.0000000000000044
+  },
+  {
+    "name": "exponentials",
+    "effort_dim": 5,
+    "derived_flow_dim": 4,
+    "mass_rank": 4,
+    "kernel_dim_MT": 1,
+    "trace_rank": 2,
+    "boundary_rank": 2,
+    "minimal_trace_completion": [
+      0
+    ],
+    "stokes_relative_defect": 2.60946797180599e-15,
+    "rank_factorization_relative_defect": 4.775758790675517e-15,
+    "mass_condition_nonzero": 965892.6301683937
+  },
+  {
+    "name": "gaussian_rbfs",
+    "effort_dim": 5,
+    "derived_flow_dim": 4,
+    "mass_rank": 4,
+    "kernel_dim_MT": 1,
+    "trace_rank": 2,
+    "boundary_rank": 2,
+    "minimal_trace_completion": [
+      0
+    ],
+    "stokes_relative_defect": 2.575475642459194e-15,
+    "rank_factorization_relative_defect": 9.251047394710517e-16,
+    "mass_condition_nonzero": 31.586630019059374
+  },
+  {
+    "name": "neural_tanh_features",
+    "effort_dim": 5,
+    "derived_flow_dim": 4,
+    "mass_rank": 4,
+    "kernel_dim_MT": 1,
+    "trace_rank": 2,
+    "boundary_rank": 2,
+    "minimal_trace_completion": [
+      0
+    ],
+    "stokes_relative_defect": 1.4431929264919663e-15,
+    "rank_factorization_relative_defect": 2.9800594337113616e-16,
+    "mass_condition_nonzero": 1399.5519562844997
+  },
+  {
+    "name": "boundary_vanishing_single_sine",
+    "effort_dim": 1,
+    "derived_flow_dim": 1,
+    "mass_rank": 0,
+    "kernel_dim_MT": 1,
+    "trace_rank": 0,
+    "boundary_rank": 0,
+    "minimal_trace_completion": null,
+    "stokes_relative_defect": 6.548581121812446e-17,
+    "rank_factorization_relative_defect": 3.2742905609062234e-17,
+    "mass_condition_nonzero": null
+  }
+]
